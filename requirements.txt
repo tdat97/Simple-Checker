@@ -1,0 +1,26 @@
+numpy
+opencv-python
+tensorflow
+#tensorflow-gpu==2.8.0
+#protobuf==3.20.*
+argparse
+scikit-learn
+tqdm
+pillow
+pyserial
+
+# DB
+PyMySQL
+cryptography
+
+# labelling tool
+labelme
+
+# Dev
+jupyterlab
+
+# Camera
+stapipy-1.1.2.4-cp38-cp38-win_amd64.whl
+
+# crypto
+pycryptodome
